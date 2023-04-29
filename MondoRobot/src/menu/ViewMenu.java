@@ -81,6 +81,7 @@ public class ViewMenu implements PropertyChangeListener{
 		subError.setForeground(Color.red);
 		v2.subFrame.pack();
 	}
+	
 	@Override
 	public void propertyChange(PropertyChangeEvent evt) {
 		// TODO Auto-generated method stub
